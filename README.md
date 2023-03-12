@@ -3,11 +3,8 @@
 **`Aspiring Functional developer`**
 
 --- 
-I'm from India, and I'm currently into functional programming. I'm actually dating `purescript` now.
-I used to work on several technologies like Native android, flutter, django, spring boot etc. I love sharing whatever I'm learning. I have been blogging since my college days.
-I actively experiment with different toolings and frameworks as I strongly believe in
- > "A jack of all trades is a master of none, but oftentimes better than a master of one"
- 
+I'm from India, and have been working on `purescript`, a functional programming language.
+I actively experiment with different toolings and frameworks. I've worked on various technologies like Native android, flutter, django, spring boot etc. I have been blogging since my college days since I love sharing whatever I'm learning. 
 #
 
  ### 🧰 Languages and Tools
