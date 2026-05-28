@@ -26,4 +26,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-or
 ### ✍️ Latest Articles on Medium
 
 
-![Saravanan's Blog](https://medium.com/@imsaravananm)
+[![Medium](https://shields.io)](https://medium.com/@imsaravananm)
