@@ -23,4 +23,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-or
 
 #
 
-**Medium:** [imsaravananm](https://medium.com/@imsaravananm)
+**I write about engineering, systems, and learning in my medium blog:** [imsaravananm](https://medium.com/@imsaravananm)
